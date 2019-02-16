@@ -1,3 +1,5 @@
+package com.saucelabs
+
 import org.gradle.api.NamedDomainObjectContainer
 
 class SauceConnectExtension {
